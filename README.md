@@ -55,7 +55,7 @@ Follow the steps below to set up and reproduce the development environment.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/DagmMesfin/solar-challenge-week1.git
+git clone https://github.com/Robel-ermiyas/solar-challenge-week1.git
 cd solar-challenge-week1
 ```
 
